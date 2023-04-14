@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481b452e04fbc5f4f84fa4c0f60f660e, type: 3}
+  m_Name: B3.MudIgnore
+  m_EditorClassIdentifier: 
+  storyText: "Te ignoran y tu sigues recto hasta llegar a la camara de la reina,
+    coges un huevo y te pones marcha fuera de la colmena:\n\n\t1.-Vuelves por el
+    mismo camino.\n\t2.-Tomas un nuevo tunel a la izqueirda que ha aparecido."
+  nextStates:
+  - {fileID: 11400000, guid: eb3d5f7f6f6af9d42afd6af49f2c64cb, type: 2}
+  - {fileID: 11400000, guid: eb2577570c91e004ab9be24ea2c631f1, type: 2}
+  art: {fileID: 21300000, guid: 392e2d6afa7a96a45886d7168f776fad, type: 3}

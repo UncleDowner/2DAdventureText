@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481b452e04fbc5f4f84fa4c0f60f660e, type: 3}
+  m_Name: B4.BloodPath
+  m_EditorClassIdentifier: 
+  storyText: "Tardas en entrar en la colmena al luchar contra una de sus miembros,
+    al entrar te encuentras dos caminios:\n\n\t1.-Camino de la izquierda\n\t2.-Camino
+    de la derecha"
+  nextStates:
+  - {fileID: 11400000, guid: 891fccf4b0fa8384194e73459e149de0, type: 2}
+  - {fileID: 11400000, guid: b34ad6ad84e4062489b46dfe998a1c20, type: 2}
+  art: {fileID: 21300000, guid: 37d968dea54b9094c9e6754f9c787f3a, type: 3}

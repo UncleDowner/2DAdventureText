@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481b452e04fbc5f4f84fa4c0f60f660e, type: 3}
+  m_Name: B1.MudPath
+  m_EditorClassIdentifier: 
+  storyText: "Entras a la colmena rapido al solo tener que usar barro, delante te
+    encuentras con dos caminos.\n\n\t1.-Camino de la izquierda\n\t2.-Camino de la
+    derecha"
+  nextStates:
+  - {fileID: 11400000, guid: a539b780ffe61e043a6c2a2e31fb72d3, type: 2}
+  - {fileID: 11400000, guid: 1309723bf61694b42bf1066b59931350, type: 2}
+  art: {fileID: 21300000, guid: 8839adf757fc6844bb5d1df17f1d374b, type: 3}
